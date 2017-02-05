@@ -1,4 +1,10 @@
 body {
-  background: #353666;
-  background: linear-gradient(#353666,#353666,#353666,#353666,#353666,#8D697B,#FC7B31)fixed;
+  background: #262944;
+  background: linear-gradient(#262944,#262944,#262944,#262944,#262944,#262944,#5B4B54,#F46B40)fixed;
 }
+
+color1: rgba(225, 214, 219, 1);
+color2: rgba(38, 41, 68, 1);
+color3: rgba(91, 75, 84, 1);
+color4: rgba(244, 107, 64, 1);
+color5: rgba(9, 6, 5, 1);
